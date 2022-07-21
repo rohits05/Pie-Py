@@ -1,8 +1,4 @@
 # Here,we'll learn about lists and its various functions in Py
-
-from numpy import matrix, number
-
-
 names = ['Rohit', 'Sourav', 'Akash', 'Vivek', 'Ayush']
 print(names)  # Prints exactly int he list form
 
